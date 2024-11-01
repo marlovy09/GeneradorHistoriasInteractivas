@@ -33,3 +33,4 @@ add_elements()
 print("\n========= [HISTORIA GENERADA] =========")
 print(generate_story())
 print("========================================")
+   
